@@ -16,9 +16,6 @@ An application to write and save note with Express.js back end and will save and
 
 
 
-https://github.com/sylviaprabudy/note-taker/blob/master/public/assets/img/NoteTaker_LP.png
-
-
 
 # Technologies Use 
 Node.js
