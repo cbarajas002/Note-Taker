@@ -2,6 +2,7 @@
 
 
 GitHub: https://cbarajas002.github.io/Note-Taker/
+Heroku:
 
 # Description 
 An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
